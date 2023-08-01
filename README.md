@@ -7,7 +7,7 @@
 Experience a personalized, visual journey through your health data with our innovative application.
 Seamlessly designed for both iOS and macOS, our app offers smooth and fast health data tracking like no other.
 
-Try our [universal binary demo, compatible with macOS Ventura (13.0) and later, fully notarized by Apple.](https://github.com/d108/Heart-Journey-Demo/releases/download/1.0.0/Heart-Journey-Demo.zip) 
+Try our [universal binary demo, compatible with macOS Ventura (13.0) and later, fully notarized by Apple.](https://github.com/d108/Heart-Journey-Demo/releases/latest)
 
 Please note, the synthetic data used in the demo is for illustrative purposes only and does not represent any actual health data.
 
